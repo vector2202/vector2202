@@ -29,5 +29,3 @@ My passion for Computer Science lies at the intersection of intelligent systems 
 
 ### 📫 Contact
 - 📧 [Email](mailto:victorres0702@gmail.com)
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector2202&show_icons=true&theme=tokyonight)
