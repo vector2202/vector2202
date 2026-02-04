@@ -1,25 +1,33 @@
 # Hello, I am Victor Torres 👋
 
+### 🚀 Software Engineer @ Google
+**Computer Science | UNAM**
 
-## About me
-Hi, I am a Google Software Engineer, so passionate about computer science, my major areas of interest are AI, Machine Learning, Paralell programming, concurrent programming and OS, recent graduated of UNAM, major Computer Science, I can say my goal or motto in life is to help people with code, so passionate of writting and designing algorithms in order to solve real life problems, specially if that code or program can make an impact on peoples lifes.
+I am a software engineer focused on building robust infrastructure and exploring high-performance computing. Currently, I am part of the **Release team at Rapid**, where I work on the stability and efficiency of CI at Google.
 
-Here you will find all my work since college, and my personal projects.
+My passion for Computer Science lies at the intersection of intelligent systems and low-level performance. I thrive on designing algorithms that solve real-world problems and make a tangible impact on people's lives.
 
-## Hobbies
-One of my main hobbies is videogames, currently playing Ghost of Tsushima, team Play Station and I think Red dead redemption 2 is the best game of all time, also other hobby/passion I have is soccer
-¡Welcome to my github! 😊
-<!--
-**vector2202/vector2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Technical Interests & Expertise
+- 🤖 **AI & Machine Learning:** Deeply interested in intelligent automation and currently building **AI Agents**.
+- ⚡ **Parallel & Concurrent Programming:** Passionate about optimizing execution and high-performance systems.
+- 💻 **Operating Systems:** Fascinated by OS internals and system-level architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I'm Up To
+- 🏗️ **At Rapid:** Scaling and optimizing core release pipelines.
+- 🤖 **Personal Projects:** Experimenting with autonomous AI agents and LLM workflows.
+- 💡 **Motto:** Helping people through clean, efficient, and impactful code.
+
+---
+
+### 🎮 Beyond the Code
+- **Gaming:** Huge PlayStation fan. Currently waiting on GTA VI. (RDR2 is the undisputed GOAT 🐎).
+- **Soccer:** Passionate player and spectator. ⚽
+
+---
+
+### 📫 Contact
+- 📧 [Email](mailto:victorres0702@gmail.com)
+
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vector2202&show_icons=true&theme=tokyonight)
