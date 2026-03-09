@@ -17,13 +17,13 @@ My passion for Computer Science lies at the intersection of intelligent systems 
 ### 🛠️ What I'm Up To
 - 🏗️ **At Rapid:** Scaling and optimizing core release pipelines.
 - 🤖 **Personal Projects:** Experimenting with autonomous AI agents and LLM workflows.
-- 💡 **Motto:** Helping people through clean, efficient, and impactful code.
+- 💡 Dedicated to making people's lives easier through code.
 
 ---
 
 ### 🎮 Beyond the Code
 - **Gaming:** Huge PlayStation fan. Currently waiting on GTA VI. (RDR2 is the undisputed GOAT 🐎).
-- **Soccer:** Passionate player and spectator. ⚽
+- **Football:** Love the sport. ⚽
 
 ---
 
